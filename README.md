@@ -1,1 +1,1 @@
-![MS](https://nirzak-streak-stats.vercel.app?user=lolcod-labs&theme=blue-navy)
+![MS](https://nirzak-streak-stats.vercel.app?user=lolcode-labs&theme=transparent&hide_border=true)
